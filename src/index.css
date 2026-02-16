@@ -1,0 +1,11 @@
+@import "tailwindcss";
+body{
+  background-color: black;
+  color: white;
+}
+#right::-webkit-scrollbar{
+  display: none;
+}
+#image{
+  background-color:blue;
+}
